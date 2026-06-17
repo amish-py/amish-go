@@ -18,27 +18,61 @@
 
 ---
 
-### Stack
+### Tech Stack
 
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square\&logo=python\&logoColor=white)
-![Go](https://img.shields.io/badge/Go-000000?style=flat-square\&logo=go\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square\&logo=javascript\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-000000?style=flat-square\&logo=gnubash\&logoColor=white)
+<div align="center">
 
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square\&logo=fastapi\&logoColor=white)
+<table>
+<tr>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square\&logo=mongodb\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-000000?style=flat-square\&logo=redis\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square\&logo=supabase\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat-square\&logo=firebase\&logoColor=white)
+<td align="center" width="33%">
 
-![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square\&logo=amazonaws\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=flat-square\&logo=kubernetes\&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-000000?style=flat-square\&logo=terraform\&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-000000?style=flat-square\&logo=jenkins\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square\&logo=linux\&logoColor=white)
+### 🖥️ Frontend
+
+<i class="ri-layout-4-line"></i>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
+
+<br>
+
+`HTML` `CSS` `JavaScript` `Reflex`
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚙️ Backend
+
+<i class="ri-server-line"></i>
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,go,bash" />
+
+<br>
+
+`Python` `FastAPI` `Go` `Bash`
+
+</td>
+
+<td align="center" width="33%">
+
+### ☁️ DevOps & Cloud
+
+<i class="ri-cloud-line"></i>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux" />
+
+<br>
+
+`AWS` `Docker` `Kubernetes`
+
+`Terraform` `Jenkins` `Linux`
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 
 ### Current Focus
