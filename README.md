@@ -1,104 +1,66 @@
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td valign="middle">
-<img src="me.png" width="90" style="border-radius:50%; border: 2px solid #000;" alt="Amish"/>
-</td>
-<td valign="middle" width="20"></td>
-<td valign="middle">
+# Amish
 
-# Hi, I'm Amish <span title="hover for Nepal 🇳🇵" onmouseover="this.textContent='🇳🇵'" onmouseout="this.textContent='👋'">👋</span>
+Backend Engineer • DevOps Engineer
 
-**Backend & DevOps Engineer · Nepal 🇳🇵**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Python+%7C+Go+Developer;FastAPI+Specialist;AWS+Cloud+Engineer;Docker+%7C+Kubernetes+%7C+Terraform" />
 
-</td>
-</tr>
-</table>
+</div>
 
----
-
-### Tech Stack
-
-<div align="center">
+<br>
 
 <table>
 <tr>
 
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-### 🖥️ Frontend
+### About
 
-<i class="ri-layout-4-line"></i>
+* Building scalable backend systems
+* Cloud infrastructure & automation
+* AWS Solutions Architect learner
+* Based in Nepal
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
+### Backend
 
-<br>
+<img src="https://skillicons.dev/icons?i=python,go,fastapi,postgres,mongodb,redis"/>
 
-`HTML` `CSS` `JavaScript` `Reflex`
+### Frontend
 
-</td>
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind"/>
 
-<td align="center" width="33%">
+### DevOps
 
-### ⚙️ Backend
-
-<i class="ri-server-line"></i>
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,go,bash" />
-
-<br>
-
-`Python` `FastAPI` `Go` `Bash`
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux"/>
 
 </td>
 
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-### ☁️ DevOps & Cloud
+<img src="https://github-readme-stats.vercel.app/api?username=amish-go&show_icons=true&hide_border=true&theme=transparent"/>
 
-<i class="ri-cloud-line"></i>
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux" />
-
-<br>
-
-`AWS` `Docker` `Kubernetes`
-
-`Terraform` `Jenkins` `Linux`
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amish-go&hide_border=true&theme=transparent"/>
 
 </td>
 
 </tr>
 </table>
 
-</div>
-
-
-### Current Focus
-
-→ AWS Solutions Architect Certification  
-→ Building APIs with Python & FastAPI  
-→ Kubernetes & Cloud Infrastructure  
-
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=amish-go&theme=transparent&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000)](https://git.io/streak-stats)
+<div align="center">
 
-<details>
-<summary>more stats</summary>
-<br>
+<a href="https://amishlamsal.com.np">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"/>
+</a>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amish-go&show_icons=true&theme=transparent&hide_border=true&title_color=000000&icon_color=000000&text_color=555555)](https://github.com/amish-go)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amish-go&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=555555)](https://github.com/amish-go)
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge"/>
+</a>
 
-</details>
-
----
-
-[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://amishlamsal.com.np)
-[![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amish-lamsal-a86379369/)
-[![Email](https://img.shields.io/badge/email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:contact.amish@yahoo.com)
-![Profile Views](https://komarev.com/ghpvc/?username=amish-go&color=000000&style=flat-square&label=views)
+<a href="mailto:contact.amish@yahoo.com">
+<img src="https://img.shields.io/badge/Email-black?style=for-the-badge"/>
+</a>
 
 </div>
